@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'HYPDatePopoverViewController', :exclusive => true do
+  pod "HYPDatePopoverViewController", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "HYPDatePopoverViewController", :path => "../"
+
+  
+end
