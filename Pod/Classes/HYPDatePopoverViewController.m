@@ -105,7 +105,7 @@ static const CGSize HYPTimePopoverSize = { 320.0f, 216.0f };
     _messageTextView.textColor = [UIColor blackColor];
     _messageTextView.text = self.message;
     _messageTextView.scrollEnabled = NO;
-    _messageTextView.backgroundColor = [UIColor lightGrayColor];
+    _messageTextView.backgroundColor = [UIColor clearColor];
 
     return _messageTextView;
 }
