@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Elvis Nuñez. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 @interface HYPViewController : UIViewController
 

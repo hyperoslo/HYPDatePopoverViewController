@@ -1,0 +1,14 @@
+PODS:
+  - HYPDatePopoverViewController (0.1.0)
+
+DEPENDENCIES:
+  - HYPDatePopoverViewController (from `../`)
+
+EXTERNAL SOURCES:
+  HYPDatePopoverViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HYPDatePopoverViewController: dfe6123fa155cfb8763dfdaae140d62a7fab6e4f
+
+COCOAPODS: 0.34.2
