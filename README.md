@@ -1,9 +1,7 @@
-# HYPDatePopoverViewController
+WORK IN PROGRESS
+================
 
-[![CI Status](http://img.shields.io/travis/Elvis Nuñez/HYPDatePopoverViewController.svg?style=flat)](https://travis-ci.org/Elvis Nuñez/HYPDatePopoverViewController)
-[![Version](https://img.shields.io/cocoapods/v/HYPDatePopoverViewController.svg?style=flat)](http://cocoadocs.org/docsets/HYPDatePopoverViewController)
-[![License](https://img.shields.io/cocoapods/l/HYPDatePopoverViewController.svg?style=flat)](http://cocoadocs.org/docsets/HYPDatePopoverViewController)
-[![Platform](https://img.shields.io/cocoapods/p/HYPDatePopoverViewController.svg?style=flat)](http://cocoadocs.org/docsets/HYPDatePopoverViewController)
+# HYPDatePopoverViewController
 
 ## Usage
 
